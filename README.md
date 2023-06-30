@@ -14,7 +14,7 @@
 ![badges](https://img.shields.io/badge/OpenCv-2.1.2-blue)
 ![badges](https://img.shields.io/badge/license-MIT-green)
 
-## 애플리케이션 구성성
+## 애플리케이션 구성
 ### 메인 화면
 ![image](https://github.com/junghye01/persona-fullstack-flutter-fastapi-team22/assets/109332374/0f4c060d-7a4e-438a-bb88-7f8cd0dcdfe1)
 
